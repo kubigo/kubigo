@@ -1,7 +1,7 @@
 # Kubigo
 Official issue repository for Kubigo project
 
-Website: [https://kubigo.cloud/]()
+Website: [https://kubigo.cloud/](https://kubigo.cloud/)
 
 This project is a web-based dashboard for managing Kubernetes clusters. It provides a user-friendly interface for viewing and managing Kubernetes resources across multiple clusters.
 Additionally, the dashboard now includes deployment history and rollback features, allowing users to track changes to their deployments and easily revert to previous versions if needed.
